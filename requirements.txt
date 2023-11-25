@@ -1,0 +1,8 @@
+streamlit
+streamlit_option_menu
+psycopg2
+re
+pandas
+numpy
+cv2
+easyocr
