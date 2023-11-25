@@ -3,5 +3,4 @@ streamlit_option_menu
 psycopg2-binary
 pandas
 numpy
-pip install --upgrade pip
 easyocr
