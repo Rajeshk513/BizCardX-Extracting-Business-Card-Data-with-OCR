@@ -1,6 +1,6 @@
 streamlit
 streamlit_option_menu
-psycopg2
+psycopg2-binary
 pandas
 numpy
 cv2
